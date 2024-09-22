@@ -1,3 +1,3 @@
 export default {
-  base: "/Categories-app-tes/",
+  base: "/Categories-app-test/",
 };
